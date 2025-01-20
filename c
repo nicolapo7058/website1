@@ -1,8 +1,13 @@
-<!DOCTYPE html>=
- 
- 
-
-   <html lang="it"
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<title>me stesso</title>
+</head>
+<body>
+<h1>Intestazione</h1>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+</body>
+</html>
 
   <body>
     <head> title <head>
